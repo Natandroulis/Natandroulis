@@ -1,5 +1,5 @@
 ### Oie!Eu sou a Naty 👋
-*ou nao. 
+
 Em manutenção...
 
 <!--
