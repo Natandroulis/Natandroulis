@@ -1,6 +1,6 @@
-### Oie!Eu sou a Naty 👋
+### Oie! aqui é a Naty 👋
 
-Em manutenção...
+<br> Bem vindo ao meu perfil !!! 
 
 <!--
 **Natandroulis/Natandroulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
