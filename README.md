@@ -4,7 +4,7 @@
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-<img src="/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" alt="PC.gif">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" alt="PC.gif">
 
 <!--
 **Natandroulis/Natandroulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
