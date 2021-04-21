@@ -5,7 +5,10 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-                                                                                                            <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/PC.gif" width="190" style="max-width:100%;">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="190">
+
+
+                                                                                                            
 
 <!--
 **Natandroulis/Natandroulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
