@@ -1,4 +1,5 @@
-### Oie! aqui é a Naty 👋
+### Oie! aqui é a Naty  👋
+### Hi i'm Naty  👋
 
 <br> Bem vindo ao meu perfil !!! 
 
