@@ -1,18 +1,8 @@
 ### Oie! aqui é a Naty  👋
 ### Hi i'm Naty  👋
 
-<br> Bem vindo ao meu perfil !!! 
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="30">
-
-
-<img src=https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8>
-
                                                                                                             
 
-<!--
 **Natandroulis/Natandroulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
