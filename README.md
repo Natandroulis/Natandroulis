@@ -1,6 +1,6 @@
 ### Oie! aqui é a Naty  👋
 ### Hi i'm Naty  👋
-### Salut je suis Naty !!!
+
 
 Sou Desenveldora Front-end com background em comunicação visual.
 Busco me aperfeiçoar em JS linguagem que iniciei em programação.
