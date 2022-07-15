@@ -1,4 +1,4 @@
-### Oie! aqui é a Naty  👋
+### Oie! aqui é a Natália 👋
 ### Hi i'm Naty  👋
 
 
@@ -21,3 +21,5 @@ Busco atualmente uma oportunidade que permita-me desenvolver conhecimentos profi
   <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>
     <i>Link :</i>
    https://www.flickr.com/photos/nayca_design/
+
+![Natalia stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
