@@ -28,3 +28,5 @@ Busco atualmente uma oportunidade que permita-me desenvolver conhecimentos profi
    <i> link: https://www.flickr.com/photos/nayca_design/ </i>
     
 [![Natalia GitHub stats](https://github-readme-stats.vercel.app/api?username=Natandroulis )](https://github.com/Natalia/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natandroulis)](https://github.com/anuraghazra/github-readme-stats)
