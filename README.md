@@ -5,7 +5,7 @@ Sou Desenveldora Front-end com background em comunicação visual.
 Busco me aperfeiçoar em JS linguagem que iniciei em programação.
 
 
-<blockquote> Entusiasta do mundo tecnológico, meu objetivo é me desenvolver e tornar o conhecimento de programação fácil para outras pessoas.</blockquote>
+<blockquote> Entusiasta do mundo tecnológico, meu objetivo é me desenvolver e tornar o conhecimento de programação mais fácil para outras pessoas.</blockquote>
 
  <!-- Também trago comigo como valor alternativas sustentáveis como prioridade para qualquer solução buscada pelas empresas, acredito que “ disciplina é liberdade” porque entendo que mesmo não tendo “dom” para determinada tarefa podemos conseguir aptidões incríveis tendo disciplina.
 Busco atualmente uma oportunidade que permita-me desenvolver conhecimentos profissional, intelectual e técnico. -->
