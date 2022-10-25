@@ -1,8 +1,8 @@
 ### Oie! aqui é a Natália 👋
 ### Hi i'm Naty  👋
 
-Sou Desenveldora Front-end com background em comunicação visual.
-Busco me aperfeiçoar em JS linguagem que iniciei em programação.
+Sou Desenveldora Front-end com background em comunicação visual.  => meu portiólio :)  https://www.instagram.com/naty_da_arte/
+<p> Busco me aperfeiçoar em JS linguagem que iniciei em programação.
 
 
 <blockquote> Entusiasta do mundo tecnológico, meu objetivo é me desenvolver e tornar o conhecimento de programação mais fácil para outras pessoas.</blockquote>
